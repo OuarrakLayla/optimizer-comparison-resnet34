@@ -8,7 +8,7 @@ Hassan II University of Casablanca — Faculty of Sciences Ben M'Sick
 ## Authors
 
 - OUARRAK Layla
-- OUTIGHI Sanae
+- OUTIGHLI Sanae
 - RHAOUFAL Khadija
 
 **Supervised by:** Prof. Faouzia BENABBOU
