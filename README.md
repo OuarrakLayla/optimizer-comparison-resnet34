@@ -26,20 +26,6 @@ This project experimentally compares **six optimizers** for training a deep neur
 
 All optimizers are evaluated under strictly identical experimental conditions: same model architecture (ResNet-34), same dataset (CIFAR-100), same batch size, and same number of epochs. The goal is to compare their convergence speed, training stability, final accuracy, and computational cost (training time and GPU memory usage), and to provide practical recommendations depending on user constraints.
 
-## Repository Contents
-
-```
-.
-├── Optimisation.ipynb          # Main notebook (Google Colab / Jupyter)
-├── SGD_metrics.csv              # Per-epoch metrics for SGD
-├── SGD_Momentum_metrics.csv     # Per-epoch metrics for SGD with Momentum
-├── Adagrad_metrics.csv          # Per-epoch metrics for Adagrad
-├── RMSprop_metrics.csv          # Per-epoch metrics for RMSprop
-├── Adam_metrics.csv             # Per-epoch metrics for Adam
-├── Nadam_metrics.csv            # Per-epoch metrics for Nadam
-├── optimizer_comparison.png     # Final comparative figure (all six optimizers)
-└── README.md
-```
 
 ## Dataset
 
